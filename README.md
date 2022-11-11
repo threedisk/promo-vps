@@ -1,4 +1,6 @@
 ## Promo VPS Racknerd 11.11
+
+Semua promo sedang berlangsung dan kemungkinan akan segera sold out. Segera gunakan kesempatan ini. Setelah itu kirimkan order number ke [Telegram](https://t.me/onsirtus), kalau beruntung bisa mendapatkan 2x lipat bandwidth.
 ---
 ### 1.11 GB KVM VPS
 ```
