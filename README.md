@@ -1,7 +1,7 @@
 ## Promo VPS Racknerd 
 
 <details>
-<summary>Promo VPS Racknerd 11.11</summary>
+<summary><b>Promo VPS Racknerd 11.11</b></summary>
 
 ---
 ### 1.11 GB KVM VPS
@@ -78,7 +78,7 @@ ORDER LINK: [https://s.id/racknerd-411](https://s.id/racknerd-411)
 </details>
 
 <details>
-<summary> Racknerd Black Friday Deals
+<summary> <b>Racknerd Black Friday Deals</b>
 </summary>
 
 ### Black Friday #1
@@ -164,5 +164,61 @@ Available in MULTIPLE LOCATIONS!
 JUST $48.77/Year - WOW!!
 ```
 ORDER NOW: [Here](https://s.id/racknerd-bf5)
+
+</details>
+
+<details>
+<summary> <b>Windows VPS - Black Friday Deal </b>
+</summary>
+
+### Windows #1
+```
+1 vCPU AMD Ryzen Core
+35 GB NVMe Storage
+2 GB RAM
+2,000GB Monthly Premium Bandwidth
+1Gbps Public Network Port
+Full Administrator Access
+Remote Desktop (RDP) Access
+1 Dedicated IPv4 Address
+KVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more
+Available in MULTIPLE LOCATIONS!
+JUST $60/Year - WOW!!
+```
+ORDER NOW: [https://s.id/racknerd-win01](https://s.id/racknerd-win01)
+
+---
+### Windows #2
+```
+2x vCPU AMD Ryzen Cores
+60 GB NVMe Storage
+3.5 GB RAM
+3500 GB Monthly Transfer
+1Gbps Network Port
+Full Administrator Access
+Remote Desktop (RDP) Access
+1 Dedicated IPv4 Address
+KVM / SolusVM Control Panel
+Available in: Multiple Locations
+ONLY $99.00/YEAR!
+```
+ORDER NOW: [https://s.id/racknerd-win02](https://s.id/racknerd-win02)
+
+---
+### Windows #3
+```
+3x vCPU AMD Ryzen Cores
+150 GB NVMe Storage
+8 GB RAM
+10,000 GB Monthly Transfer
+1Gbps Network Port
+Full Administrator Access
+Remote Desktop (RDP) Access
+1 Dedicated IPv4 Address
+KVM / SolusVM Control Panel
+Available in: Multiple Locations
+ONLY $219.00/YEAR!
+```
+ORDER NOW: [https://s.id/racknerd-win03](https://s.id/racknerd-win03)
 
 </details>
