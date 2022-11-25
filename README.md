@@ -3,6 +3,7 @@
 
 <details>
 <summary><b>Promo VPS Updated</b></summary>
+
 ### 768 MB KVM VPS Special
 ```
 1x vCPU Core
