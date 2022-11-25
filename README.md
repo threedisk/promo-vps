@@ -1,5 +1,5 @@
 ## Promo VPS Racknerd 
-##### update : 24 November 2022
+##### update : 25 November 2022
 
 <details>
 <summary><b>Promo VPS Lagi</b></summary>
@@ -17,7 +17,7 @@ KVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more
 Available in: Multiple Locations
 JUST $14.88/YEAR - WOW!!
 ```
-ORDER LINK: https://s.id/racknerd-670
+ORDER LINK: [Here](https://s.id/racknerd-670)
 
 
 ### 2.5 GB KVM VPS Special
@@ -33,7 +33,7 @@ KVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more
 Available in: Multiple Locations
 JUST $25.88/YEAR - WOW!!
 ```
-ORDER LINK: https://s.id/racknerd-671
+ORDER LINK: [Here](https://s.id/racknerd-671)
 
 
 ### 3.5 GB KVM VPS Special
@@ -49,7 +49,7 @@ KVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more
 Available in:Multiple Locations
 JUST $35.88/YEAR - WOW!!
 ```
-ORDER LINK: https://s.id/racknerd-672
+ORDER LINK: [Here](https://s.id/racknerd-672)
 
 </details>
 
