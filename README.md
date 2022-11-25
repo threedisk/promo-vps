@@ -2,6 +2,58 @@
 ##### update : 24 November 2022
 
 <details>
+<summary><b>Promo VPS Lagi</b></summary>
+
+### 1.2 GB KVM VPS Special
+```
+1x vCPU Core
+18 GB PURE SSD RAID-10 Storage
+1.2 GB RAM
+2000GB Monthly Premium Bandwidth
+1Gbps Public Network Port
+Full Root Admin Access
+1 Dedicated IPv4 Address
+KVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more
+Available in: Multiple Locations
+JUST $14.88/YEAR - WOW!!
+```
+ORDER LINK: https://s.id/racknerd-670
+
+
+### 2.5 GB KVM VPS Special
+```
+2x vCPU Cores
+40 GB PURE SSD RAID-10 Storage
+2.5 GB RAM
+3000GB Monthly Premium Bandwidth
+1Gbps Public Network Port
+Full Root Admin Access
+1 Dedicated IPv4 Address
+KVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more
+Available in: Multiple Locations
+JUST $25.88/YEAR - WOW!!
+```
+ORDER LINK: https://s.id/racknerd-671
+
+
+### 3.5 GB KVM VPS Special
+```
+2x vCPU Core
+60 GB PURE SSD RAID-10 Storage
+3.5 GB RAM
+6000GB Monthly Premium Bandwidth
+1Gbps Public Network Port
+Full Root Admin Access
+1 Dedicated IPv4 Address
+KVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more
+Available in:Multiple Locations
+JUST $35.88/YEAR - WOW!!
+```
+ORDER LINK: https://s.id/racknerd-672
+
+</details>
+
+<details>
 <summary><b>Promo VPS Updated</b></summary>
 
 ### 768 MB KVM VPS Special
